@@ -30,6 +30,8 @@ var/
 *.manifest
 *.spec
 
+# Pycharm
+.idea/
 
 # Installer logs
 pip-log.txt
